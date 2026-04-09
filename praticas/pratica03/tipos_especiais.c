@@ -12,7 +12,5 @@ int main(){
     printf ("Populacao mundial = %lli\n", populacao_mundial);
     printf ("Proporcao aurea = %.20Lf\n", proporcao_aurea);
 
-
-
     return 0;
 }
