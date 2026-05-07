@@ -22,8 +22,8 @@ int main () {
         printf("Sua idade %i o classifica como adulto\n", idade);
     } else if (eh_idoso){
         printf("Sua idade %i o classifica como idoso\n", idade);
-    } else if (nao_existe) {
+    } else if (nao_existe) 
 
 
     return 0;
-}
+    }
